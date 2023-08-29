@@ -1,4 +1,5 @@
- #include <stdio.h>
+// NON PREEMPTIVE
+#include <stdio.h>
 
 struct pcb {
     int pid, at, bt, ct, wt, tat, isc;
