@@ -1,3 +1,5 @@
+// NON PREEMPTIVE PRIORITY SCHEDULING
+// SMALLER INTEGER VALUE -> HIGHER PRIORITY
 #include <stdio.h>
 struct pcb {
     int pid, at, bt, ct, wt, tat, isc, prio;
